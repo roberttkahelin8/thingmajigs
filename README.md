@@ -1,6 +1,10 @@
 # thingmajigs
 A mod that adds decorations to your Minecraft Worlds.
 
+## About
+This mod was originally called "Bluey's Thingamajigs", but a part of the name was omitted due to a personal problem with the term, 'bluey'.
+It was started in 2020, and has been updating ever since. It has gone through 1 major rewrite and several smaller reconstructions of the mod. Versions 1.19-1.20+ are the rewritten version. Older versions of the mod won't be uploaded here (nor any source code) as they are under a different set of circumstances regarding shared code and textures.
+
 ### Original Mod Credits:
 _Created by: CreativeMasterBonin_
 
