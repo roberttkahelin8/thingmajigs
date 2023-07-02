@@ -1,6 +1,10 @@
 # thingmajigs
 A mod that adds decorations to your Minecraft Worlds.
 
+### Original Mod Credits:
+Created by: CreativeMasterBonin
+Some Textures and Other Ideas: Greenspelunking, blueman
+
 Some easy to replicate source code from Thingamajigs will be made public for use. Some code is not used in the actual mod (or has been deprecated).
 
 _This mod uses the official mappings Mojang Studios has provided to modders._ This mod only runs on the Forge modding environment.
