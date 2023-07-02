@@ -2,8 +2,9 @@
 A mod that adds decorations to your Minecraft Worlds.
 
 ### Original Mod Credits:
-Created by: CreativeMasterBonin
-Some Textures and Other Ideas: Greenspelunking, blueman
+_Created by: CreativeMasterBonin_
+
+_Some Textures and Other Ideas: Greenspelunking, blueman_
 
 Some easy to replicate source code from Thingamajigs will be made public for use. Some code is not used in the actual mod (or has been deprecated).
 
