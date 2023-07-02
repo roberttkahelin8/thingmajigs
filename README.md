@@ -11,7 +11,7 @@ This mod was originally called "Bluey's Thingamajigs", but a part of the name wa
 It was started in 2020, and has been updating ever since. It has gone through 1 major rewrite and several smaller reconstructions of the mod. Versions 1.19-1.20+ are the rewritten version. Older versions of the mod won't be uploaded here (nor any source code) as they are under a different set of circumstances regarding shared code and textures.
 
 ## Why Is This Here
-To allow users of the mod to suggest features in the **issues** tab of this repository and to report bugs that need to be fixed in the mod. If anyone has suggestions, feel free to open a report and tag it as a 'suggestion'.
+To allow users of the mod to suggest features in the **issues** tab of this repository and to report bugs that need to be fixed in the mod. If anyone has suggestions, feel free to open a report and tag it as a 'suggestion'. Users of the mod may also see suggestions by CreativeMasterBonin. These are suggestions the mod may be able to have as a full feature in the future, provided they do not need too much help to create. It is always a good thing to ask for help, however.
 
 Some easy to replicate source code from Thingamajigs will be made public for use. Some code is not used in the actual mod (or has been deprecated).
 
