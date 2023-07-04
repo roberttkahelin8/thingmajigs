@@ -1,0 +1,6 @@
+This version of the mod code is from version 1.6.2+.
+
+Code will update from time to time in seperate branches if neccessary to preserve version code incase something goes wrong.
+Who wouldn't right?
+
+Any changes that have been confirmed to not break everything will be committed to the main branch if need be.
