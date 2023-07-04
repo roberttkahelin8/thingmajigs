@@ -14,9 +14,8 @@ import net.rk.thingamajigs.Thingamajigs;
 public class ThingamajigsCreativeTab {
     public static final DeferredRegister<CreativeModeTab> CMTS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, Thingamajigs.MOD_ID);
 
-    @Deprecated
-    public static CreativeModeTab ALL_ITEMS_TAB; // legacy stuff has ended in 1.20, leading this variable to be older than the newer one that is now used in it's place...
-    // future versions of Thingamajigs may delete this unused tab completely...
+    @Deprecated // since when? mod ver 1.6.2
+    public static CreativeModeTab ALL_ITEMS_TAB; // legacy stuff has ended, so this will go unused indefinitely
 
     // tabs and bg image deprecated due to tabs image not working anymore
     // do they exist? yes! But tabs will be out of normal usage for a long time... otherwise, the bg still works fine if enabled...
