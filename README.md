@@ -33,7 +33,7 @@ Please look in the downloads folder to see a list of compiled versions (this is 
 The downloads folder is also for players who do not want to support certain websites by waiting five seconds or more for a download.
 Note that not ALL releases will be here, only the most recent updates since Minecraft 1.19, as older versions do not follow the same guidelines.
 
-Official releases of this mod are on CurseForge.
+Official releases of this mod are on CurseForge and other approved of websites, which are listed here.
 Main Page: https://www.curseforge.com/minecraft/mc-mods/blueys-thingamajigs
 
 More Info: https://theboninwebsite.wixsite.com/main/bluey-s-thingamajigs
