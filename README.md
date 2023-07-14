@@ -34,6 +34,8 @@ The downloads folder is also for players who do not want to support certain webs
 Note that not ALL releases will be here, only the most recent updates since Minecraft 1.19, as older versions do not follow the same guidelines.
 
 Official releases of this mod are on CurseForge and other approved of websites, which are listed here.
-Main Page: https://www.curseforge.com/minecraft/mc-mods/blueys-thingamajigs
+CurseForge Page: https://www.curseforge.com/minecraft/mc-mods/blueys-thingamajigs
+Modrinth Page: https://modrinth.com/mod/thingamajigs
 
-More Info: https://theboninwebsite.wixsite.com/main/bluey-s-thingamajigs
+Thingamajigs Official Info Page: https://theboninwebsite.wixsite.com/main/bluey-s-thingamajigs
+Thingamajigs Direct Downloads Page: https://theboninwebsite.wixsite.com/main/thingamajigs-mod-downloads
