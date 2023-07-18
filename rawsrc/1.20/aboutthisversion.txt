@@ -1,4 +1,4 @@
-This version of the mod code is from version 1.6.2+.
+This version of the mod code is from version 1.6.2-1.6.3_dev.
 
 Code will update from time to time in seperate branches if neccessary to preserve version code incase something goes wrong.
 Who wouldn't right?
