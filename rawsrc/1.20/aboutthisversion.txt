@@ -4,3 +4,10 @@ Code will update from time to time in seperate branches if neccessary to preserv
 Who wouldn't right?
 
 Any changes that have been confirmed to not break everything will be committed to the main branch if need be.
+
+These snippets of code may be outdated.
+If this is the case, it will most likely be updated in the near future, if not... assume someone forgot.
+
+Code that is released here can be used in other projects (by permission of CMB), but do not directly copy names, ids or imports (they won't work outside of Thingamajigs anyways and may change in future versions). Remember: this is the 1.20 version code. It may not work for 1.20.1+.
+
+This code will also not work in Fabric or any other development environment except Forge.
