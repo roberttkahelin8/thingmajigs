@@ -29,7 +29,7 @@ https://www.minecraft.net/en-us/terms#terms-brand_guidelines
 
 Compliance Actions:
 This repository will follow a take down notice if necessary at any point to comply with the Minecraft EULA and any other laws.
-The takedown notice may be a DMCA, meaning this entire mod (and links to it) would be removed and never seen again (that means thrown into a void, never heard, seen, touched... etc, etc).
+The takedown notice may be under the DMCA, meaning this entire mod (and links to it) would be removed and never seen again (that means thrown into a void, never heard, seen, touched... etc, etc).
 This also means one very important thing: No backups of any kind. Files will be erased, code will be forgotten, and much, much more.
 
 If you don't want that, then don't ask for content that will make this mod get taken down instantly.
