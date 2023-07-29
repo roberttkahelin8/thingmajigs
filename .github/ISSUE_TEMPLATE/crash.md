@@ -1,6 +1,6 @@
 ---
 name: Crash
-about: Something in the mod broke. Help by telling us the issue!
+about: Something in the mod broke the whole game. Help by telling us the issue!
 title: ''
 labels: crash
 assignees: ''
