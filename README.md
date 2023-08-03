@@ -2,6 +2,7 @@
 A mod that adds decorations to your Minecraft Worlds.
 
 Supported Versions For Issue and Crash Support: MC 1.20.1.
+
 Unsupported Versions For Issue and Crash Support: MC 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
 
 ## Mod Credits
