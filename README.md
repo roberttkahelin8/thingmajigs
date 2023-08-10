@@ -56,3 +56,7 @@ Modrinth Page: https://modrinth.com/mod/thingamajigs
 Thingamajigs Official Info Page: https://theboninwebsite.wixsite.com/main/bluey-s-thingamajigs
 
 Thingamajigs Direct Downloads Page: https://theboninwebsite.wixsite.com/main/thingamajigs-mod-downloads
+
+
+Disclaimer about product:
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
