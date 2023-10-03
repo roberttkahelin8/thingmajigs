@@ -60,7 +60,9 @@ Thingamajigs Direct Downloads Page: https://theboninwebsite.wixsite.com/main/thi
 
 Version Licenses:
 Remake versions: All rights reserved unless otherwise explicitly stated.
-Version 1.2.5 and below do not fall under this license, they fall under the MCreator license, which is GPL-3.0 and previously the Academic Free License 3.0.
+
+Version 1.2.5 and below do not fall under this license, they fall under the GPL-3.0 and previously (pre-1.17~ versions) the Academic Free License 3.0.
+
 Versions 1.2.5 of this mod and below are under the title, "Bluey's Thingamajigs". Consider these mods separate from each other.
 
 Disclaimer about product:
