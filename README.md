@@ -41,7 +41,7 @@ Also, don't mock anyone with suggestions for this mod.
 
 
 
-If you need help understanding what code you are looking at, it is specically Java language (the syntax) and Minecraft Forge methods and variables (and implementations, classes, etcetera).
+If you need help understanding what code you are looking at, it is specifically Java language (the syntax) and Minecraft Forge methods and variables (and implementations, classes, etcetera).
 
 Please look in the downloads folder to see a list of compiled versions (this is for convenience and safety of players who can't trust certain mod hosting websites).
 The downloads folder is also for players who do not want to support certain websites by waiting five seconds or more for a download.
