@@ -3,7 +3,7 @@ A mod that adds decorations to your Minecraft Worlds.
 
 Supported Versions For Issue and Crash Support: MC 1.20.1.
 
-Unsupported Versions For Issue and Crash Support: MC 1.15, 1.16, 1.17, 1.18, 1.19, 1.20 (if you are using these versions on a server, don't use them anymore, either upgrade your server, or use another mod like this one, if there isn't a SINGLE mod that does what my mod does out there, then you may file a bug/crash report and I may fix it if I can find a way to fix it for a particular version of the mod).
+Unsupported Versions For Issue and Crash Support: MC 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
 
 ## Documentation
 https://bonincreativemedia.gitbook.io/thingamajigs-docs/
