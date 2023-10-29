@@ -78,5 +78,7 @@ Version 1.2.5 and below do not fall under this license, they fall under the GPL-
 
 Versions 1.2.5 of this mod and below are under the title, "Bluey's Thingamajigs". Consider these mods separate from each other.
 
+Note that these versions have been removed from the online world entirely, and no longer exist digitally (did they _ever_ exist physically?)
+
 Disclaimer about product:
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
