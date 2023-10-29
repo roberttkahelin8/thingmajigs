@@ -14,14 +14,14 @@ _Created by: CreativeMasterBonin_
 _Some Textures and Other Ideas: Greenspelunking, blueman_
 
 ## About
-This mod was originally called "Bluey's Thingamajigs", but a part of the name was omitted due to a personal problem with the term, 'bluey'.
+This mod was originally called "Bluey's Thingamajigs", but a part of the name was omitted due to a personal problem with the term, 'bluey' and other franchises as we know that showed up years after the mod name was made, say thanks to the many companies that run television for that one.
 It was started in 2020, and has been updating ever since. It has gone through 1 major rewrite and several smaller reconstructions of the mod. Versions 1.19-1.20+ are the rewritten version. Older versions of the mod won't be uploaded here (nor any source code) as they are under a different set of circumstances regarding shared code and textures.
 
 ## Why Is This Here
 To allow users of the mod to suggest features in the **issues** tab of this repository and to report bugs that need to be fixed in the mod. If anyone has suggestions, feel free to open a report and tag it as a 'suggestion'. Users of the mod may also see suggestions by CreativeMasterBonin. These are suggestions the mod may be able to have as a full feature in the future, provided they do not need too much help to create. It is always a good thing to ask for help, however.
 
 # What the goal of this mod is
-To give users as many decorations as there are ideas in Minecraft, reinforcing the 'endless' part of Minecraft to the extreme, while allowing survival and creative players to enjoy the mod equally by using one item, the Thingamajig, to craft 'almost' everything in the mod where and if it makes the most sense to do so. As modders start living more (as in, their lives improve and they need to move on) and becoming less and less able to continue working on amazing mods, other people need to start continuing the idea of 'taking the torch' for these older, experienced modders, and have a try at the challenges of modding. In this case, Thingamajigs' goal is to re-implement a bucket load of decorative mod content from previous mods, and/or expand on others, while still bringing in as much fresh and original content as possible. A secondary goal is to remain a singular download, meaning Thingamajigs should not require a library or other mods to function at all (unless it is absolutely neccessary to get particular features working the way they really should be). The final (and most difficult) *end* goal is to make a final update that has enough features to satisfy the environment of Forge for years to come (or, at least, many years... more than ten is preferred but no one can guarantee anything will last that long or beyond that time frame).
+To give users as many decorations as there are ideas in Minecraft, reinforcing the 'endless' part of Minecraft to the extreme, while allowing survival and creative players to enjoy the mod equally by using one item, the Thingamajig, to craft 'almost' everything in the mod (which is changed in 1.6.7+, we now use components instead of just the thingamajig by itself) where and if it makes the most sense to do so. As modders start living more (as in, their lives improve and they need to move on) and becoming less and less able to continue working on amazing mods, other people need to start continuing the idea of 'taking the torch' for these older, experienced modders, and have a try at the challenges of modding. In this case, Thingamajigs' goal is to re-implement a bucket load of decorative mod content from previous mods, and/or expand on others, while still bringing in as much fresh and original content as possible. A secondary goal is to remain a singular download, meaning Thingamajigs should not require a library or other mods to function at all (unless it is absolutely neccessary to get particular features working the way they really should be). The final (and most difficult) *end* goal is to make a final update that has enough features to satisfy the environment of Forge for years to come (or, at least, many years... more than ten is preferred but no one can guarantee anything will last that long or beyond that time frame).
 
 Some easy to replicate source code from Thingamajigs will be made public for use. Some code is not used in the actual mod (or has been deprecated).
 
@@ -40,15 +40,21 @@ The takedown notice may be under the DMCA, meaning this entire mod (and links to
 This also means one very important thing: No backups of any kind. Files will be erased, code will be forgotten, and much, much more.
 
 If you don't want that, then don't ask for content that will make this mod get taken down instantly.
-Also, don't mock anyone with suggestions for this mod.
+Also, don't mock anyone with suggestions for this mod (we will remove you, permanently).
+
+Also, if you are the owner of something referenced in this mod, I can just take out that feature from the mod you don't like, but that is it. Personal preferences are NOT valid reasons for a DCMA takedown or other legal action, sorry, that is how it works. Evidence and proof are easy to give if you are a company who wishes something to be removed from the mod, but if you don't like the mod because of something else, like a personal preference, I am sorry, I only take legal requests and suggestions that add content that everyone will enjoy, or rather, is safe for ALL people, not just individuals.
+Some problematic features could be gambling machines, or the poop, for example. Remember, this mod is only decorative, and does not endorse the real life stuff portrayed in this mod. You take responsibility for your own actions when downloading mods and content from 3rd parties. We can reject arguments on the grounds that the mod is a choice to download, not forced or required for you to use. You can delete this mod and never use it again if you don't like it, it is perfectly fine. But do not report a mod out of existence for one feature you don't like. These are the simple legal rules and such this mod is grounded upon (and some other things I don't need to go into detail here).
 
 
+# Technical Information About Repository Files
 
 If you need help understanding what code you are looking at, it is specifically Java language (the syntax) and Minecraft Forge methods and variables (and implementations, classes, etcetera).
 
 Please look in the downloads folder to see a list of compiled versions (this is for convenience and safety of players who can't trust certain mod hosting websites).
 The downloads folder is also for players who do not want to support certain websites by waiting five seconds or more for a download.
 Note that not ALL releases will be here, only the most recent updates since Minecraft 1.19, as older versions do not follow the same guidelines.
+
+Some files are for other websites, please ignore them or use them and give credit back to here if they are used (if you don't we'll find you).
 
 # Official releases of this mod are on these listed websites (_not all versions are on every website_):
 
