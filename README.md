@@ -1,3 +1,5 @@
+![image](https://github.com/roberttkahelin8/thingmajigs/blob/main/img/logo3drender_upscaled.png?raw=true "logo3d_render_upscaled_edit")
+
 # thingmajigs
 A mod that adds decorations to your Minecraft Worlds.
 
