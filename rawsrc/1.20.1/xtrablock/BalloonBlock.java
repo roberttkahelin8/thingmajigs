@@ -58,6 +58,7 @@ public class BalloonBlock extends Block {
     @Override
     public void tick(BlockState bs, ServerLevel sl, BlockPos bp, RandomSource rs) {
         if(bp.getY() >= 255){
+            sl.playSound(null,bp,ThingamajigsSoundEvents.POP.get(),SoundSource.BLOCKS,2.0f,1.0f);
             sl.setBlock(bp,Blocks.AIR.defaultBlockState(),3);
         }
         if(sl.getBlockState(bp.above()).is(Blocks.WATER)){
