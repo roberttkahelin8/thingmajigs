@@ -1,4 +1,6 @@
-#Problematic things
+#Problematic things:
+
+
 Unfortunately, as the mod grows, so do you. NeoForge versions won't be made because the effort required is FAR beyond the capabilities of any one person, so, here is what we must do.
 
 If anyone WANTS to port this mod to NeoForge and do the whole "pass the torch" thing, the Forge version of the mod will be maintained and updated to the next Forge version and stay as long as Forge itself exists, after that, the NeoForge version may be the main version.
