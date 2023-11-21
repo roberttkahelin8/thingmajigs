@@ -1,4 +1,4 @@
-#Problematic things:
+#problematic_things:
 
 
 Unfortunately, as the mod grows, so do you. NeoForge versions won't be made because the effort required is FAR beyond the capabilities of any one person, so, here is what we must do.
@@ -14,6 +14,10 @@ You may port the mod IF you do it right to the following mod loaders:
 - Fabric
 - Quilt
 
+(i have nothing against modloaders wanting to change things)
+
+This isn't just a thing with NeoForge already being a pain, rather, a modder issue. You get tired because every few years some horrid wall of doom says you can't pass, and your mod becomes stagnent, and can't move forward (you can't update it because you built up too much stuff at once that worked, and the next change is too massive for you alone to work on). And you said you would "never let that happen", yet it did to all the other good mods, so why would you be excluded? Oh well. Anyways...
+
 Others aren't really needed as they are pretty small in terms of really good mods. These 3 represent the BULK of modding, +/- a few loaders that have come and go.
 Note that CMB will work on Thingamajigs (and addons created for it) as long as they are for FORGE. Even though Forge is being dunked on, that doesn't mean the mod loader itself should be dunked on, and no, this is not flaming, just facts. Don't ruin something because of people, fix the issues yourself, if possible. Players don't care about the code, they want the experience, don't remove something just because you don't like it. This is the idea behind good projects that last for years. They have all quickly (those good projects) become a catalyst for destruction, and CMB doesn't like that, and wants things to be better, but if they really won't be, then CMB will move on from said stuff, and not return ever again.
 
@@ -21,3 +25,5 @@ As time goes on, things need to change, yes, we all get that one, but, some thin
 Unlike other modders, this mod won't die unless the creator themselves dies. Oops, that was a little dark.
 
 Anyways, thanks... :D ;) - CMB, creator of Thingamajigs, a decoration mod.
+
+BTW, there are other projects that aren't Minecraft I do have encase Thingamajigs fails. Hehe...
