@@ -27,3 +27,7 @@ Unlike other modders, this mod won't die unless the creator themselves dies. Oop
 Anyways, thanks... :D ;) - CMB, creator of Thingamajigs, a decoration mod.
 
 BTW, there are other projects that aren't Minecraft I do have encase Thingamajigs fails. Hehe...
+
+
+
+ALSO! If you weren't aware already, the mod needs some more *good* features again. *Usable* features. *Fancy* and *quality* features. Again, this mod was made for fun, and remains to be a fun project, but only if things don't become frustating. The railroad crossings first and foremost, they STINK in my opinion. I need someone who KNOWS how to program good entities to make the crossings. The US one in the mod currently, is a let down to me. If someone out there can make vanilla-ish looking jappa-ified textured railroad crossings with some features mentioned in https://github.com/roberttkahelin8/thingmajigs/issues/9, then please, do so and contact me, and I will credit and try to implement it as soon as possible. Not many are willing to do this stuff without some ridiculous cost or a catch involved. If you will do this stuff for free ONCE and without ANY strings attached, like I have with this mod, you may have a special mention in the mod, and permanently be known as a hero of railroad crossings (and other features you might be able to improve). No one said decoration mods like this had to be cheap and easily made. I hope to make it that way. Thanks for stopping by!
