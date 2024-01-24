@@ -5,13 +5,13 @@ A mod that adds decorations to your Minecraft Worlds.
 
 Supported Versions For Issue and Crash Support: MC 1.20.1.
 
-Supported Mod Loaders For Issue and Crash Support: Forge.
+Supported Mod Loaders For Issue and Crash Support: Forge, NeoForge (1.20.4 Versions, not out yet).
 
 Unsupported Versions For Issue and Crash Support: MC 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
 
-Unsupported Mod Loaders For Issue and Crash Support: NeoForge.
+Unsupported Mod Loaders For Issue and Crash Support: ???
 
-Future Planned Versions: 1.20.2, 1.20.3, 1.20.4. (Be patient for these versions, they change many aspects over and over again, breaking old mods).
+Future Planned Versions: 1.20.4. (Be patient, many aspects are changed again, breaking old mods).
 
 ## Documentation
 https://bonincreativemedia.gitbook.io/thingamajigs-docs/
