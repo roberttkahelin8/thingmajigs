@@ -5,7 +5,7 @@ A mod that adds decorations to your Minecraft Worlds.
 
 Supported Versions For Issue and Crash Support: MC 1.20.1.
 
-Supported Mod Loaders For Issue and Crash Support: Forge, NeoForge (1.20.4 Versions, not out yet).
+Supported Mod Loaders For Issue and Crash Support: Forge (1.20.1 Version), NeoForge (1.20.4 Version, not out yet).
 
 Unsupported Versions For Issue and Crash Support: MC 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
 
