@@ -1,0 +1,8 @@
+This is not a (registered or approved by lawyer) legal document, rather a description of how you can use code, images, and other files put here (similar to other mods' licenses).
+
+Files with the extension '.java' can be used in other mods (some code is from vanilla MC itself, modified from it's origin to be different and expandable).
+
+Anything else is All Rights Reserved unless otherwise explicitly stated (meaning the author/authors give you the permission to use content).
+This means you cannot currently use any images freely that have the '.img', '.png', '.jpg', '.psd', '.gif', or '.pxd' formats in this repository for anything. You may view them but that is all.
+
+Note that this LICENSE can update at any time to reflect major or minor changes.
