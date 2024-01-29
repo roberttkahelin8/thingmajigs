@@ -1,0 +1,14 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/blueys-thingamajigs",
+  "1.20.1": {
+    "1.6.9": "Added some amazing new content. HUGE Update! Many signs, factory blocks, and more!",
+    "1.7.0": "A minor update with some little things."
+  },
+  "1.20.4": {
+    "1.7.0": "Updated it all to NeoForge. Enjoy!"
+  },
+  "promos": {
+    "1.20.4-latest": "1.7.0",
+    "1.20.4-recommended": "1.7.0"
+  }
+}
