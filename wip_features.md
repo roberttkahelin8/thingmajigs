@@ -2,6 +2,7 @@ A list of new features that are WIP and will be released in a future update (usu
 (These Features are usually made with 'parity' in mind so the experience is mostly the same):
 * Trash Can (Complete)
 * Change Machine (exchange emeralds for CASH and turn that CASH into COINS, neither of which will have a recipe).
+* Cash and Coins (Can be obtained by crafting a change machine and obtaining an emerald (bring 2 emeralds, one for crafting and one for using!), There purpose is for roleplay or if you want, add them in a datapack for actual gameplay usage)
 * Commercial Dryer
 * Commercial Washer
 
