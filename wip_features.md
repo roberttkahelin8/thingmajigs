@@ -20,4 +20,4 @@ A list of new features that are WIP and will be released in a future update (usu
 A list of future versions of this mod (meaning different mod loaders or mc versions):
 * 1.7.1 (1.20.1)
 * 1.7.1 (1.20.4-neo)
-* ?.?.? (1.20.5-neo) "because I want player scaling, 😈"
+* ?.?.? (1.20.5-neo) "because I want official player scaling and gravity, 😈"
