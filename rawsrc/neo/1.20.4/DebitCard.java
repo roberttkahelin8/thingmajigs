@@ -16,6 +16,7 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.level.LevelAccessor;
 import net.minecraft.world.level.block.Block;
 import net.rk.thingamajigs.block.ATM;
+import net.rk.thingamajigs.block.InsetATM;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
@@ -23,6 +24,7 @@ import java.util.List;
 @SuppressWarnings("deprecated")
 public class DebitCard extends Item {
     private int moneyAmt = 0; // the item instance and ref has this redundant counter for tracking
+    private final int maxMoney = 999999; // the maximum money allowed on the card
 
     public DebitCard(Properties p) {
         super(p.stacksTo(1).setNoRepair().rarity(Rarity.EPIC).fireResistant());
@@ -51,7 +53,7 @@ public class DebitCard extends Item {
         boolean shifting = ply.isShiftKeyDown();
 
         if(ih == InteractionHand.MAIN_HAND){
-            if(blockClicked instanceof ATM){
+            if(blockClicked instanceof ATM || blockClicked instanceof InsetATM){
                 CompoundTag moneyTag = new CompoundTag();
                 if(shifting){
                     if(stack.hasTag()){
@@ -69,7 +71,6 @@ public class DebitCard extends Item {
                                     if(!ply.getInventory().add(new ItemStack(TItems.MONEY.asItem(),1))){
                                         ply.drop(new ItemStack(TItems.MONEY.asItem(),1), false);
                                     }
-                                    return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                                 }
                                 else{
                                     stack.getTag().putInt("money", stack.getTag().getInt("money") - 1);
@@ -82,8 +83,8 @@ public class DebitCard extends Item {
                                     if(!ply.getInventory().add(new ItemStack(TItems.COIN.asItem(),1))){
                                         ply.drop(new ItemStack(TItems.COIN.asItem(),1), false);
                                     }
-                                    return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                                 }
+                                return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                             }
                             else {
                                 ply.displayClientMessage(
@@ -125,15 +126,20 @@ public class DebitCard extends Item {
                         if(hasMoney){
                             // handle overflow and money tag
                             if (stack.getTag() != null){
+                                // if the money is off, do the simple thing and absorb it to correct errors
+                                if(stack.getTag().getInt("money") + 4 >= maxMoney){
+                                    invitem.shrink(1);
+                                }
+
                                 stack.getTag().putInt("money", stack.getTag().getInt("money") + 4);
-                                if(stack.getTag().getInt("money") >= 10000){
-                                    stack.getTag().putInt("money", 10000);
+
+                                if(stack.getTag().getInt("money") >= maxMoney){
+                                    stack.getTag().putInt("money", maxMoney);
                                     ply.displayClientMessage(
                                             Component.translatable("item.thingamajigs.debit_card.full_card"),true);
                                     level.playSound(null,positionClicked,
                                             SoundEvents.ITEM_PICKUP, SoundSource.BLOCKS,1.0f,0.5f);
                                     moneyAmt = stack.getTag().getInt("money");
-                                    return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                                 }
                                 else{
                                     invitem.shrink(1);
@@ -142,22 +148,26 @@ public class DebitCard extends Item {
                                     moneyAmt = stack.getTag().getInt("money");
                                     ply.displayClientMessage(
                                             Component.translatable("item.thingamajigs.debit_card.card_add_funds",4),true);
-                                    return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                                 }
+                                return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                             }
                         }
                         else if(hasCoin){
                             // handle overflow and money tag
                             if (stack.getTag() != null){
+                                // if the money is off, do the simple thing and absorb it to correct errors
+                                if(stack.getTag().getInt("money") + 1 >= maxMoney){
+                                    invitem.shrink(1);
+                                }
+
                                 stack.getTag().putInt("money", stack.getTag().getInt("money") + 1);
-                                if(stack.getTag().getInt("money") >= 10000){
-                                    stack.getTag().putInt("money", 10000);
+                                if(stack.getTag().getInt("money") >= maxMoney){
+                                    stack.getTag().putInt("money", maxMoney);
                                     ply.displayClientMessage(
                                             Component.translatable("item.thingamajigs.debit_card.full_card"),true);
                                     level.playSound(null,positionClicked,
                                             SoundEvents.ITEM_PICKUP, SoundSource.BLOCKS,1.0f,0.5f);
                                     moneyAmt = stack.getTag().getInt("money");
-                                    return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                                 }
                                 else{
                                     invitem.shrink(1);
@@ -166,8 +176,8 @@ public class DebitCard extends Item {
                                     moneyAmt = stack.getTag().getInt("money");
                                     ply.displayClientMessage(
                                             Component.translatable("item.thingamajigs.debit_card.card_add_funds",1),true);
-                                    return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                                 }
+                                return InteractionResult.sidedSuccess(ctx.getLevel().isClientSide);
                             }
                         }
                     }
