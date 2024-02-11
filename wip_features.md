@@ -18,7 +18,7 @@ A list of new features that are WIP and will be released in a future update (usu
 * Mobile Phone Enhanced menu
 
 Dev and Other Features (may be exactly the same in more than one mc modding enviro):
-* Datagen (Loot tables, Block tags, item tags)
+* Datagen (Loot tables, Block tags, item tags) automatically generated instead of manually created each time (reduces headaches)
 
 A list of future versions of this mod (meaning different mod loaders or mc versions):
 * 1.7.1 (1.20.1)
