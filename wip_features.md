@@ -16,6 +16,8 @@ A list of new features that are WIP and will be released in a future update (usu
 
 (Non parity features go here, meaning they won't match at all or are barely similar (neo versions/others excluding forge)):
 * Mobile Phone Enhanced menu
+* Preparation for neoforge's 'c' tag before 1.21 (Completed)
+* Worldgen changes (Unintended Completion)
 
 Dev and Other Features (may be exactly the same in more than one mc modding enviro):
 * Datagen (Loot tables, Block tags, item tags) automatically generated instead of manually created each time (reduces headaches)
