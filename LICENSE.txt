@@ -11,4 +11,15 @@ You may not repost this mod on any website. If you do, your website will be cons
 
 You may view image and other non-java files, but not use them.
 
+You may reference modded blocks and items in other mods (e.g. your model files or code references the mod id 'thingamajigs' and contains the word 'thingamajigs')
+You may not use the name 'thingamajigs' for anything BUT references in model files or code. If your mod id is 'thingamajigs' or 'thingamajigsplus' or anything like that, you are copying this name too closely and must (its recommended to) change it.
+This is the same as copying name-brands and adding one word or some numbers to it (like calling a linux distro "Windows 12").
+Another example of outright copying is taking the MC name and adding some number or word to it (e.g. MinecraftMods or Minecraft4 or something).
+An acceptable example of a mod name/id that doesn't break the rules is "Techno & Thingamajigs" or "Cool Stuff & Thingamajigs" because the term "Thingamajigs" is not the main focus of the title/id of the mod.
+This mod tries to comply with the Minecraft EULA (https://www.minecraft.net/en-us/eula) and MUG (https://www.minecraft.net/en-us/usage-guidelines).
+
+Bad examples of an id/title are "ThingamajigsBlocks" or "Thingamajigs Staffs". (Note i'm not going to send a lawyer after you because I can't determine whether or not someone HAS actually taken the term "Thingamajigs" and added to a mod name anyways.
+
+Basically, if your in a grey/gray area about the usage of "Thingamajigs" or "thingamajigs", just ask. There are a billion real businesses with the term "Thingamajigs" as their real working/company title.
+
 Note that this LICENSE can update at any time to reflect major or minor changes.
