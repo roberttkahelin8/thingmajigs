@@ -17,6 +17,9 @@ A list of new features that are WIP and will be released in a future update (usu
 (Non parity features go here, meaning they won't match at all or are barely similar (neo versions/others excluding forge)):
 * Mobile Phone Enhanced menu
 
+Dev and Other Features (may be exactly the same in more than one mc modding enviro):
+* Datagen (Loot tables, Block tags, item tags)
+
 A list of future versions of this mod (meaning different mod loaders or mc versions):
 * 1.7.1 (1.20.1)
 * 1.7.1 (1.20.4-neo)
