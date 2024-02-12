@@ -5,8 +5,14 @@ A list of new features that are WIP and will be released in a future update (usu
 * Cash and Coins (Can be obtained by crafting a change machine and obtaining an emerald (bring 2 emeralds, one for crafting and one for using!), their purpose is for roleplay or if you want, add them in a datapack for actual gameplay usage) (Complete)
 * Debit Card (used to exchange physical money for a representation of the money, and can be used at an ATM, and stores ~999999 money) (Complete)
 * Special Character Statue #1 (requested feature) (Complete)
-* Commercial Dryer
-* Commercial Washer
+* Commercial Dryer (Complete)
+* Commercial Washer (Complete)
+* DJ-ing Gobo Shapes Light
+* DJ-ing Turntable (based on multiple types)
+* DJ-ing Mirror Moving Light
+* DJ-ing Direct Multi-color Moving Spotlight
+* DJ-ing Multi-color Multi-shape Laser Light
+* Disco Ball
 
 
 "Perhaps I will add these features, maybe later, maybe now, idk" features:
