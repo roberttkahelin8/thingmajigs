@@ -19,6 +19,14 @@ A list of new features that are WIP and will be released in a future update (usu
 * Preparation for neoforge's 'c' tag before 1.21 (Completed)
 * Worldgen changes (Unintended Completion)
 
+Enhancements (Forge):
+* All dyed pumpkin stems are colored coded to distinguish them from other pumpkin stems
+
+Bug Fixes That Are Done (Forge):
+* Black Pumpkin didn't turn into it's proper carved pumpkin and gave wrong seeds
+* Microwave didn't have a loot table
+* All blocks now have a proper loot table instead of generic ones (some have better loot tables)
+
 Dev and Other Features (may be exactly the same in more than one mc modding enviro):
 * Datagen (Loot tables, Block tags, item tags) automatically generated instead of manually created each time (reduces headaches)
 
