@@ -5,7 +5,7 @@ Copying any code verbatim, meaning no changes to variable names nor block class 
 (Can't have two RailroadCrossingBlock's, or NotQuiteBlock's, for example, as that can cause issues, please change the names of package names, java class files, and interfaces and such to prevent issues). Only do these things if you intend to purposefully use the code in Thingamajigs yourself (for an addon or such, such as the railroad crossing components, which have some hardcoded values that other mods can't exactly use easily). 
 Also if you made some code for this mod to use, it's yours, but you cannot override the license here for anything but that specific bit of code for uses outside of this mod (you make the code, your code can be private or public, whatever you want, but if it's in this mod, you must have the same license as this one). 
 
-^ Note that the context for names is if the intention is to copy on purpose to gain profit and not do something different. ^
+^ Note that the context for names is if the intention is to copy on purpose to gain profit (nefarious intentions) and not do something different. ^
 
 
 
