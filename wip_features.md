@@ -14,6 +14,9 @@ A list of new features that are WIP and will be released in a future update (usu
 * DJ-ing Multi-color Multi-shape Laser Light
 * Disco Ball
 * Item Displayer (shows the item inside it's inventory as a spinning display) (Complete)
+* Glow Blocks (16 colors) (Complete)
+* Lab Screen Blocks (Complete)
+* Rubber Lane (Complete)
 
 
 "Perhaps I will add these features, maybe later, maybe now, idk" features:
