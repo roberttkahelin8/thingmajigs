@@ -22,7 +22,7 @@ _Created by: CreativeMasterBonin_
 _Some Textures and Other Ideas: Greenspelunking, blueman_
 
 ## About
-This mod was originally called "Bluey's Thingamajigs", but a part of the name was omitted due to a personal problem with the term, 'bluey' and other franchises as we know that showed up years after the mod name was made, say thanks to the many companies that run television for that one.
+This mod was originally called "Bluey's Thingamajigs", but a part of the name was omitted due to a personal problem with the term, 'bluey' and other franchises as we know. Say thanks to the many companies that run television for that one. Also, I've been informed they got the name 'bluey' first, so I guess I was too slow.
 
 No I'm not being a jerk, it is just that is LITERALLY what happened, and I can't change that, oh well :)
 
