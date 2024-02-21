@@ -7,11 +7,11 @@ A list of new features that are WIP and will be released in a future update (usu
 * Special Character Statue #1 (requested feature) (Complete)
 * Commercial Dryer (Complete)
 * Commercial Washer (Complete)
-* DJ-ing Gobo Shapes Light (Complete)
+* DJ-ing Gobo Shapes Light (Complete, doesn't render anything in the world, just a block)
 * DJ-ing Turntable (based on multiple types) (Complete)
 * DJ-ing Mirror Moving Light
 * DJ-ing Direct Multi-color Moving Spotlight
-* DJ-in Direct multi-color adjustable laser (working on customizability)
+* DJ-in Direct multi-color adjustable laser (working on customizability, renders a beacon beam that can do a lot of things)
 * Disco Ball
 * Item Displayer (shows the item inside it's inventory as a spinning display) (Complete)
 * Glow Blocks (16 colors) (Complete)
