@@ -11,7 +11,7 @@ A list of new features that are WIP and will be released in a future update (usu
 * DJ-ing Turntable (based on multiple types) (Complete)
 * DJ-ing Mirror Moving Light
 * DJ-ing Direct Multi-color Moving Spotlight
-* DJ-ing Multi-color Multi-shape Laser Light
+* DJ-in Direct multi-color adjustable laser (working on customizability)
 * Disco Ball
 * Item Displayer (shows the item inside it's inventory as a spinning display) (Complete)
 * Glow Blocks (16 colors) (Complete)
