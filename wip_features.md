@@ -13,9 +13,7 @@ Future update:
 * More Tables
 
 (Non parity features go here, meaning they won't match at all or are barely similar (neo versions/others excluding forge)):
-* Mobile Phone Enhanced menu
-* Preparation for neoforge's 'c' tag before 1.21 (Completed)
-* Worldgen changes (Unintended Completion)
+* future plans later
 
 Enhancements (Forge):
 * future plans later
