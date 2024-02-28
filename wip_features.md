@@ -18,17 +18,15 @@ Future update:
 * Worldgen changes (Unintended Completion)
 
 Enhancements (Forge):
-* All dyed pumpkin stems are colored coded to distinguish them from other pumpkin stems
+* future plans later
 
 Bug Fixes That Are Done (Forge):
-* Black Pumpkin didn't turn into it's proper carved pumpkin and gave wrong seeds
-* Microwave didn't have a loot table
-* All blocks now have a proper loot table instead of generic ones (some have better loot tables)
+* future plans later
 
 Dev and Other Features (may be exactly the same in more than one mc modding enviro):
-* Datagen (Loot tables, Block tags, item tags) automatically generated instead of manually created each time (reduces headaches)
+* future plans later
 
 A list of future versions of this mod (meaning different mod loaders or mc versions):
-* 1.7.1 (1.20.1)
-* 1.7.1 (1.20.4-neo)
+* 1.7.2 (1.20.1)
+* 1.7.2 (1.20.4-neo)
 * ?.?.? (1.20.5-neo) "because I want official player scaling and gravity, 😈"
