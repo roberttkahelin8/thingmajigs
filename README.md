@@ -24,7 +24,7 @@ _Some Textures and Other Ideas: Greenspelunking, blueman_
 ## About
 This mod was originally called "Bluey's Thingamajigs", but a part of the name was omitted due to a personal problem with the term, 'bluey' and other franchises as we know. Say thanks to the many companies that run television for that one. Also, I've been informed they got the name 'bluey' first, so I guess I was too slow.
 
-No I'm not being a jerk, it is just that is LITERALLY what happened, and I can't change that, oh well :)
+No I'm not angry or anything, it is just that is LITERALLY what happened, and I can't change that, oh well :)
 
 
 The mod was started in 2020, and has been updating ever since. It has gone through 1 major rewrite and several smaller reconstructions of the mod. Versions 1.19-1.20+ are the rewritten version (sorta-ish, some versioning schemes were different in my mod back in 2020 so I have no clue what version counts as the first rewritten version after the old version was abandonded). Older versions of the mod won't be uploaded here (nor any source code) as they are under a different set of circumstances regarding shared code and textures.
