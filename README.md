@@ -66,7 +66,7 @@ Please look in the downloads folder to see a list of compiled versions (this is 
 The downloads folder is also for players who do not want to support certain websites by waiting five seconds or more for a download.
 Note that not ALL releases will be here, only the most recent updates since Minecraft 1.19, as older versions do not follow the same guidelines.
 
-Some files are for other websites, please ignore them or use them and give credit back to here if they are used (if you don't we'll find you).
+Some files are for other websites, please ignore them.
 
 # Official releases of this mod are on these listed websites (_not all versions are on every website_):
 
