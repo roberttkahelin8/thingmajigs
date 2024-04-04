@@ -4,13 +4,13 @@ A list of new features that are WIP and will be released in a future update (usu
 1.7.2 Update (some features were requested):
 
 
-Conveyor Belt (slab-like and moves players in direction belt is moving visually, Completed)
-Analog Wall Clock (the one with the hands)
-Fire Hydrant (multiple colors with some functionality regarding water, wip)
-More Tables (Iron and Copper, maybe more)
-Make Grates do some fancy water physics stuff
-Writable gravestones
-Parking Meter (pay up if you park here!)
+* Conveyor Belt (slab-like and moves players in direction belt is moving visually, Completed)
+* Analog Wall Clock (the one with the hands)
+* Fire Hydrant (multiple colors with some functionality regarding water, wip)
+* More Tables (Iron and Copper, maybe more)
+* Make Grates do some fancy water physics stuff
+* Writable gravestones
+* Parking Meter (pay up if you park here!)
 
 Future update:
 * DJ-ing Mirror Moving Light
