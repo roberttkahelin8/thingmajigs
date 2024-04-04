@@ -1,6 +1,9 @@
 A list of new features that are WIP and will be released in a future update (usually the next after the current public release, excluding public betas and alphas):
 (These Features are usually made with 'parity' in mind so the experience is mostly the same):
+
 1.7.2 Update (some features were requested):
+
+
 Conveyor Belt (slab-like and moves players in direction belt is moving visually, Completed)
 Analog Wall Clock (the one with the hands)
 Fire Hydrant (multiple colors with some functionality regarding water, wip)
