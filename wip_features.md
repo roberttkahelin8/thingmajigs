@@ -5,7 +5,7 @@ A list of new features that are WIP and will be released in a future update (usu
 
 
 * Conveyor Belt (slab-like and moves players in direction belt is moving visually, Completed)
-* Analog Wall Clock (single hand to represent hours (each dot exist, but not each hour is shown), Completed)
+* Analog Wall Clock (single hand to represent hours (each hour dot exists, but not each hour is shown), Completed)
 * Fire Hydrant (multiple colors with some functionality regarding water, wip)
 * More Tables (Iron and Copper, maybe more)
 * Make Grates do some fancy water physics stuff
