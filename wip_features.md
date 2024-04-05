@@ -8,7 +8,7 @@ A list of new features that are WIP and will be released in a future update (usu
 * Analog Wall Clock (single hand to represent hours (each hour dot exists, but not each hour is shown), Completed)
 * Fire Hydrant (multiple colors with some functionality regarding water, wip)
 * More Tables (Iron and Copper, maybe more)
-* Make Grates do some fancy water physics stuff
+* Grate upgrades (Can be waterlogged now when placed in water and when a water bucket is used on them, fancy physics are NYI, Completed)
 * Writable gravestones
 * Parking Meter (pay up if you park here!)
 
