@@ -6,7 +6,7 @@ A list of new features that are WIP and will be released in a future update (usu
 
 * Conveyor Belt (slab-like and moves players in direction belt is moving visually, Completed)
 * Analog Wall Clock (single hand to represent hours (each hour dot exists, but not each hour is shown), Completed)
-* Fire Hydrant (multiple colors with some functionality regarding water, wip)
+* Fire Hydrant (multiple colors and produces water in direction it faces and removes it using the Key item (block is crafted with a water bucket))
 * More Tables (Iron and Copper, maybe more)
 * Grate upgrades (Can be waterlogged now when placed in water and when a water bucket is used on them, fancy physics are NYI, Completed)
 * Writable gravestones
