@@ -10,7 +10,7 @@ A list of new features that are WIP and will be released in a future update (usu
 * More Tables (Iron and Copper, maybe more)
 * Grate upgrades (Can be waterlogged now when placed in water and when a water bucket is used on them, fancy physics are NYI, Completed)
 * Writable gravestones
-* Parking Meter (pay up if you park here!)
+* Parking Meter (Completed)
 
 Future update:
 * DJ-ing Mirror Moving Light
