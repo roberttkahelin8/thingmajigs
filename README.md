@@ -3,13 +3,15 @@
 # thingmajigs
 A mod that adds decorations to your Minecraft Worlds.
 
-Supported Versions For Issue and Crash Support: MC 1.20.1, 1.20.4.
+Supported Versions For Issue and Crash Support: MC 1.20.1.
 
-Supported Mod Loaders For Issue and Crash Support: Forge (1.20.1 Version), NeoForge (1.20.4 Version).
+Supported Mod Loaders For Issue and Crash Support: Forge (1.20.1 Version).
 
 Unsupported Versions For Issue and Crash Support: MC 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
 
-Unsupported Mod Loaders For Issue and Crash Support: ???
+Unsupported Mod Loaders For Issue and Crash Support: 1.20.4.
+
+We dropped support for 1.20.4 due to technical issues regarding 1.20.5 that require a lot of time to fix.
 
 Future Planned Versions: 1.20.5-neo
 
