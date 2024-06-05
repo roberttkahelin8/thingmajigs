@@ -1,15 +1,8 @@
 A list of new features that are WIP and will be released in a future update (usually the next after the current public release, excluding public betas and alphas):
 (These Features are usually made with 'parity' in mind so the experience is mostly the same):
 
-1.7.2 Update (some features were requested):
-
-
-* Conveyor Belt (slab-like and moves players in direction belt is moving visually, Completed)
-* Analog Wall Clock (single hand to represent hours (each hour dot exists, but not each hour is shown), Completed)
-* Fire Hydrant (multiple colors and produces water in direction it faces and removes it using the Key item (block is crafted with a water bucket and iron block so that infinite water makes more sense; doesn't interface with pipes or other modded blocks), Completed)
-* More Tables (Iron and Copper (copper only has waxed variant due to connecting issues), Completed)
-* Grate upgrades (Can be waterlogged now when placed in water and when a water bucket is used on them, fancy physics are NYI, Completed)
-* Parking Meter (Completed)
+1.7.3 Update (some features were requested):
+* It's a secret!
 
 Future update:
 * DJ-ing Mirror Moving Light
