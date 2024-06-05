@@ -29,5 +29,4 @@ Dev and Other Features (may be exactly the same in more than one mc modding envi
 
 A list of future versions of this mod (meaning different mod loaders or mc versions):
 * 1.7.3 (1.20.1)
-* 1.7.3 (1.20.4-neo)
-* ?.?.? (1.20.5-neo) "because I want official player scaling and gravity, 😈"
+* ?.?.? (neo) "because I want official player scaling and gravity, 😈"
