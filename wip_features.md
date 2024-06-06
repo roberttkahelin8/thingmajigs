@@ -14,7 +14,7 @@ Future update:
 * Metal Bridge Railing (Horizontal Ladder style, slightly curved upward with 3 bars, and combo of the 2 version)
 
 "Perhaps I will add these features, maybe later, maybe now, idk" features:
-* Writable gravestones (seems to be a bit tricky to implement based on the signs in mc)
+* Writable gravestones (seems to be a bit tricky to implement based on the signs in mc, a prototype proved to partially work)
 * Bigger Double Door Fridge
 * More Chairs
 * More Tables
