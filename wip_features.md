@@ -3,21 +3,22 @@ A list of new features that are WIP and will be released in a future update (usu
 
 1.7.3 Update (some features were requested):
 * It's a secret!
+  
+* Concrete Block (Brick, Grainy and/or Cobblestone) perhaps adding onto existing Concrete Barriers and/or new and old stuff (complete)
+* Steel Block (complete)
+* Metal Construction Fence (Stackable Vertically) (complete)
+* Metal Bridge Railing (Horizontal Ladder style, slightly curved upward with 3 bars) (complete)
 
 Future update:
-* DJ-ing Mirror Moving Light
-* DJ-ing Direct Multi-color Moving Spotlight
 * Disco Ball
-* Concrete Block (Brick, Grainy and/or Cobblestone) perhaps adding onto existing Concrete Barriers and/or new and old stuff
-* Steel Block
-* Metal Construction Fence (Stackable Vertically)
-* Metal Bridge Railing (Horizontal Ladder style, slightly curved upward with 3 bars, and combo of the 2 version)
 
 "Perhaps I will add these features, maybe later, maybe now, idk" features:
 * Writable gravestones (seems to be a bit tricky to implement based on the signs in mc, a prototype proved to partially work)
 * Bigger Double Door Fridge
 * More Chairs
 * More Tables
+* DJ-ing Mirror Moving Light
+* DJ-ing Direct Multi-color Moving Spotlight
 
 (Non parity features go here, meaning they won't match at all or are barely similar (neo versions/others excluding forge)):
 * future plans later
