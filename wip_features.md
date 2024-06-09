@@ -9,9 +9,12 @@ A list of new features that are WIP and will be released in a future update (usu
 * Steel Block (complete)
 * Metal Construction Fence (Stackable Vertically) (complete)
 * Metal Bridge Railing (Horizontal Ladder style, slightly curved upward with 3 bars) (complete)
+* Laundry Basket
+* Laundry Pile (clean and dirty)
+* Disco Ball
 
 Future update:
-* Disco Ball
+?
 
 "Perhaps I will add these features, maybe later, maybe now, idk" features:
 * Writable gravestones (seems to be a bit tricky to implement based on the signs in mc, a prototype proved to partially work)
