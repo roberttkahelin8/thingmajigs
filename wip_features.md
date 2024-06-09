@@ -3,7 +3,8 @@ A list of new features that are WIP and will be released in a future update (usu
 
 1.7.3 Update (some features were requested):
 * It's a secret!
-  
+
+* Add more mod compat support...
 * Concrete Block (Brick, Grainy and/or Cobblestone) perhaps adding onto existing Concrete Barriers and/or new and old stuff (complete)
 * Steel Block (complete)
 * Metal Construction Fence (Stackable Vertically) (complete)
