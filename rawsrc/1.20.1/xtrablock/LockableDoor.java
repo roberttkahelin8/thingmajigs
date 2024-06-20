@@ -126,7 +126,8 @@ public class LockableDoor extends DoorBlock {
 
     @Override
     protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> p_52803_) {
-        p_52803_.add(HALF, FACING, OPEN, HINGE, POWERED,LOCKED);
+        super.createBlockStateDefinition(p_52803_);
+        p_52803_.add(LOCKED);
     }
 
     // copied only to allow LOCKED property to pass through hinge check that original block requires to function
