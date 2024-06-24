@@ -49,3 +49,4 @@ A list of future versions of this mod (meaning different mod loaders or mc versi
 - Signs and Road Content (other than a few other decorations) will be an addon instead of included by default.
 - An addon for extra content will be created, such as Converter, Purifying Water and other miscellaneous features that don't fit the 'decoration' categories at all.
 - Recipes and other data will be generated instead of premade manual files (allowing for fast updating of recipes when they don't seem balanced).
+- Blocks with a toggled state will play a sound for being activated or deactivated (open/close,on/off).
