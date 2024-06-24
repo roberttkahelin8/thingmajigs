@@ -38,4 +38,14 @@ Dev and Other Features (may be exactly the same in more than one mc modding envi
 
 A list of future versions of this mod (meaning different mod loaders or mc versions):
 * 1.7.3 (1.20.1)
-* ?.?.? (neo) "because I want official player scaling and gravity, 😈"
+* ?.?.? (neo)
+
+  
+
+?.?.? Neo Feature Update (Rewrite for 1.21+):
+- Redo ALL Blocks to have better supported functions and future-proofing
+- Lockable Door blocks breaking progress if locked and can open using either top or bottom now, and key will only unlock/lock door from bottom half (due to visible handle).
+- DJ Laser Light will be in perpetual NYI state until further notice, however can be placed and will show basic moving white laser.
+- Signs and Road Content (other than a few other decorations) will be an addon instead of included by default.
+- An addon for extra content will be created, such as Converter, Purifying Water and other miscellaneous features that don't fit the 'decoration' categories at all.
+- Recipes and other data will be generated instead of premade manual files (allowing for fast updating of recipes when they don't seem balanced).
