@@ -9,11 +9,11 @@ Supported Mod Loaders For Issue and Crash Support: Forge (1.20.1 Version).
 
 Unsupported Versions For Issue and Crash Support: MC 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
 
-Unsupported Mod Loaders For Issue and Crash Support: 1.20.2-1.20.5.
+Unsupported Mod Loaders For Issue and Crash Support: 1.20.2-1.20.6.
 
 We dropped support for 1.20.4 due to issues.
 
-Future Planned Versions: 1.20.6-neo
+Future Planned Versions: 1.21-neo
 
 ## Documentation
 https://bonincreativemedia.gitbook.io/thingamajigs-docs/
