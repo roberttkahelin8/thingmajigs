@@ -13,7 +13,7 @@ Unsupported Mod Loaders For Issue and Crash Support: 1.20.2-1.20.6.
 
 We dropped support for 1.20.4 due to issues.
 
-Future Planned Versions: 1.21-neo
+Future Planned Versions: 1.7.4
 
 ## Documentation
 https://bonincreativemedia.gitbook.io/thingamajigs-docs/
