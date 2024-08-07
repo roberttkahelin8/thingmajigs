@@ -1,17 +1,9 @@
 A list of new features that are WIP and will be released in a future update (usually the next after the current public release, excluding public betas and alphas):
 (These Features are usually made with 'parity' in mind so the experience is mostly the same):
 
-1.7.3 Update (some features were requested):
-* It's a secret!
-
-* Add more mod compat support...
-* Concrete Block (Brick, Grainy and/or Cobblestone) perhaps adding onto existing Concrete Barriers and/or new and old stuff (complete)
-* Steel Block (complete)
-* Metal Construction Fence (Stackable Vertically) (complete)
-* Metal Bridge Railing (Horizontal Ladder style, slightly curved upward with 3 bars) (complete)
-* Laundry Basket
-* Laundry Pile (clean and dirty)
-* Disco Ball
+1.7.4 Update (some features were requested):
+* Redo Asphalt Block Features
+* More Asphalt slabs that are painted
 
 Future update:
 ?
