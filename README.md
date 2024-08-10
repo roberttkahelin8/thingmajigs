@@ -75,7 +75,7 @@ Some files are for other websites, please ignore them.
 
 CurseForge Page: https://www.curseforge.com/minecraft/mc-mods/blueys-thingamajigs
 
-Modrinth Page: https://modrinth.com/mod/thingamajigs
+Due to circumstances, certain links to alternative download sites have been ban hammered.
 
 Thingamajigs Official Info Page: https://theboninwebsite.wixsite.com/main/bluey-s-thingamajigs
 
