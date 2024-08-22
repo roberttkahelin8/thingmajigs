@@ -5,4 +5,5 @@ Every Compat
 
 Optional Supported Mods:
 Athena
-??? (1.7.3+)
+Patchouli (1.7.3+)
+Apotheosis (1.7.4+)
