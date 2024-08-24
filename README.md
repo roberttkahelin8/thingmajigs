@@ -83,7 +83,7 @@ Thingamajigs Direct Downloads Page: https://theboninwebsite.wixsite.com/main/thi
 
 
 Version Licenses:
-All versions not listed below (made before and after August 24, 2024): ARR-UOES (custom license).
+All versions not listed below (made before and after August 24, 2024): ARR-UOES (custom license, with explicit public permissions allowed, and other permissions which are not allowed unless explicitly given to a 3rd party).
 
 Version 1.2.5 and below do not fall under this license, they fall under the GPL-3.0 and previously (pre-1.17~ versions) the Academic Free License 3.0.
 
