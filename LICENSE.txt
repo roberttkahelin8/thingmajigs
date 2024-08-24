@@ -1,4 +1,8 @@
-These rules and terms of use are based off of the ARR-UOES License, which allows those to use the mod in particular ways with explicit and publically available permissions, which 3rd parties must display somewhere in some form for all to see, as to prevent an dis-trust issue. The mod previously had a 'no-license' license. This was effective August 24th, 2024.
+These rules and terms of use are based off of the ARR-UOES License, which allows those to use the mod in particular ways with explicit and publically available permissions, which 3rd parties must display somewhere in some form for all to see, as to prevent an dis-trust issue. The mod previously had a 'no-license' license. This was effective August 24th, 2024. Note that this license is a US-based license, so some extra terms may apply elsewhere.
+
+These are the public permissions (where you don't have to ask permission [unless it is specified here] to do these things) on what/how/why/when/where to use/display/make/on all accounts the mod.
+
+Note that this LICENSE can update at any time to reflect major or minor changes.
 
 
 
@@ -13,20 +17,32 @@ Also if you made some code for this mod to use, it's yours, but you cannot overr
 
 
 
-Anything else is All Rights Reserved unless otherwise explicitly stated (meaning the author/authors give you the permission to use content).
-This means you cannot currently use any images freely that have the '.img', '.png', '.jpg', '.psd', '.gif', or '.pxd' formats in this repository for anything.
+You cannot currently use any images freely that have the '.img', '.png', '.jpg', '.psd', '.gif', or '.pxd' formats in this repository for anything.
 
 You may not use any file formats pertaining to model files such as '.json' or '.obj'. This also includes '.json' files that are used for other purposes in this mod.
 
-You may not repost this mod on any website. If you do, your website will be considered to be for 'malicious intentions'. You'll be reported.
+You may not repost this mod on any website. If you do, your website will be considered to be for 'malicious intentions'. You'll be reported, and possibly removed from search engines forever.
 
-You may view image and other non-java files, but not use them.
+You may view image and other non-java files, but not use them (unless you have written permission to do so).
+
+If you are a 3rd party that is distrbuting this mod in a format other than just a reference, you must have prior written permission to do so.
+Also, if your content contains this mod and makes money or some sort of gain off said content that contains this mod in it, you aren't required to post a public list of permissions, since that is a freely given right in the US and some other countries. Fair use is the following types of content:
++ Video Showcases Of The Mod
++ Video Tutorials Of The Mod
++ Discussions about the mod (negative or positive)
++ Reviews of the mod (negative or positive)
++ Articles about the mod (negative or positive)
++ Playthroughs of MC Modded gameplay that contain images or show the mod's content in gameplay
++ Challenges that use the mod (in gameplay context) to win money or other awards (note that the MC M.U.G. and E.U.L.A. might/do override this [in some form; this is outside the scope of this license])
+
+Since word of mouth and other simple forms of communcation are allowed (almost everywhere) this license will allow as much as the US law states in those aspects (if you are outside of the scope, nothing can be done in that respect). If this is a grey/gray area for 3rd parties reading this, remember to just ask for the details and specifics or just a run-down of what all this means.
 
 You may reference modded blocks and items in other mods (e.g. your model files or code references the mod id 'thingamajigs' and contains the word 'thingamajigs')
 You may not use the name 'thingamajigs' for anything BUT references in model files or code. If your mod id is 'thingamajigs' or 'thingamajigsplus' or anything like that, you are copying this name too closely and must (its recommended to) change it.
 This is the same as copying name-brands and adding one word or some numbers to it (like calling a linux distro "Windows 12").
 Another example of outright copying is taking the MC name and adding some number or word to it (e.g. MinecraftMods or Minecraft4 or something).
 An acceptable example of a mod name/id that doesn't break the rules is "Techno & Thingamajigs" or "Cool Stuff & Thingamajigs" because the term "Thingamajigs" is not the main focus of the title/id of the mod.
+
 This mod tries to comply with the Minecraft EULA (https://www.minecraft.net/en-us/eula) and MUG (https://www.minecraft.net/en-us/usage-guidelines).
 
 Bad examples of an id/title are "ThingamajigsBlocks" or "Thingamajigs Staffs". (Note i'm not going to send a lawyer after you, but if it gets serious enough, I may have to take drastic measures, which would be bad).
@@ -34,5 +50,3 @@ If your a 3rd party that didn't get explicit permission to make money with my mo
 Think of it as taking a candy bar that you were told not to touch unless a staff member said you could touch it, and you ate the whole thing. You'd be in the hole, possibly sued for damages, and then banned from all shops that had the same rules and candy bars. That is not a good situation to be in, so don't do it. Don't argue, just listen and follow to the rules. They are very simple and fair if you read the ARR-UOES carefully.
 
 Basically, if your in a grey/gray area about the usage of "Thingamajigs" or "thingamajigs", just ask. There are a billion real businesses with the term "Thingamajigs" as their real working/company title.
-
-Note that this LICENSE can update at any time to reflect major or minor changes.
