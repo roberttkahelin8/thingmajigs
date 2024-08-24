@@ -29,7 +29,9 @@ Another example of outright copying is taking the MC name and adding some number
 An acceptable example of a mod name/id that doesn't break the rules is "Techno & Thingamajigs" or "Cool Stuff & Thingamajigs" because the term "Thingamajigs" is not the main focus of the title/id of the mod.
 This mod tries to comply with the Minecraft EULA (https://www.minecraft.net/en-us/eula) and MUG (https://www.minecraft.net/en-us/usage-guidelines).
 
-Bad examples of an id/title are "ThingamajigsBlocks" or "Thingamajigs Staffs". (Note i'm not going to send a lawyer after you because I can't determine whether or not someone HAS actually taken the term "Thingamajigs" and added to a mod name anyways.
+Bad examples of an id/title are "ThingamajigsBlocks" or "Thingamajigs Staffs". (Note i'm not going to send a lawyer after you, but if it gets serious enough, I may have to take drastic measures, which would be bad).
+If your a 3rd party that didn't get explicit permission to make money with my mod, (meaning your not CMB or on a public list), you have broken the ARR-UOES, and will be considered "breach of license".
+Think of it as taking a candy bar that you were told not to touch unless a staff member said you could touch it, and you ate the whole thing. You'd be in the hole, possibly sued for damages, and then banned from all shops that had the same rules and candy bars. That is not a good situation to be in, so don't do it. Don't argue, just listen and follow to the rules. They are very simple and fair if you read the ARR-UOES carefully.
 
 Basically, if your in a grey/gray area about the usage of "Thingamajigs" or "thingamajigs", just ask. There are a billion real businesses with the term "Thingamajigs" as their real working/company title.
 
