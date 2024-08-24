@@ -1,3 +1,7 @@
+These rules and terms of use are based off of the ARR-UOES License, which allows those to use the mod in particular ways with explicit and publically available permissions, which 3rd parties must display somewhere in some form for all to see, as to prevent an dis-trust issue. The mod previously had a 'no-license' license. This was effective August 24th, 2024.
+
+
+
 This is not a (registered or approved by lawyer) legal document nor legal advice, rather a description of how you can use code, images, and other files put here (similar to other mods' licenses).
 
 Files with the extension '.java' can be used in other mods, with exceptions (some code is from vanilla MC itself, modified from it's origin to be different and expandable).
