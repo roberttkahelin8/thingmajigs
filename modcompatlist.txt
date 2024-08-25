@@ -1,6 +1,7 @@
 Here are the mods compatible with Thingamajigs:
 Every Compat
 'dark mode mod'
+Dramatic Doors (1.7.3+ Only)
 
 
 Optional Supported Mods:
