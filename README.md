@@ -91,5 +91,7 @@ Versions 1.2.5 of this mod and below are under the title, "Bluey's Thingamajigs"
 
 Note that these versions have been removed from the online world entirely, and no longer exist digitally (did they _ever_ exist physically?)
 
+As of August 27th, 2024, the artist involved in the creation of the pumpkin textures has allowed multiple mods to use them, so they are not Thingamajigs-exclusive textures anymore. Exclusive permission was given to another modder, along with Thingamajigs' mod creator.
+
 Disclaimer about product:
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
