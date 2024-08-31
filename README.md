@@ -67,7 +67,7 @@ If you need help understanding what code you are looking at, it is specifically 
 
 Please look in the downloads folder to see a list of compiled versions (this is for convenience and safety of players who can't trust certain mod hosting websites).
 The downloads folder is also for players who do not want to support certain websites by waiting five seconds or more for a download.
-Note that not ALL releases will be here, only the most recent updates since Minecraft 1.19, as older versions do not follow the same guidelines.
+Note that not ALL releases will be here, only releases that are not the 'legacy' mod version. Reposter websites may be hosting old versions still. Please avoid reposted versions of the 'legacy' mod, as those websites often have malicious code running on them, and may have modified the jar files to spread viruses and trojans and the like. When you can, report these websites. Only websites listed here are valid hosts for the mod.
 
 Some files are for other websites, please ignore them.
 
