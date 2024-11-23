@@ -11,9 +11,10 @@ This is not a (registered or approved by lawyer) legal document nor legal advice
 Files with the extension '.java' can be used in other mods, with exceptions (some code is from vanilla MC itself, modified from it's origin to be different and expandable).
 Copying any code verbatim, meaning no changes to variable names nor block class names, is prohibited. You MUST change the names so that they are distinct from the originals.
 (Can't have two RailroadCrossingBlock's, or NotQuiteBlock's, for example, as that can cause issues, please change the names of package names, java class files, and interfaces and such to prevent issues). Only do these things if you intend to purposefully use the code in Thingamajigs yourself (for an addon or such, such as the railroad crossing components, which have some hardcoded values that other mods can't exactly use easily). 
-Also if you made some code for this mod to use, it's yours, but you cannot override the license here for anything but that specific bit of code for uses outside of this mod (you make the code, your code can be private or public, whatever you want, but if it's in this mod, you must have the same license as this one). 
+Also if you made some code for this mod to use, it's yours, but you cannot override the license here for anything but that specific bit of code for uses outside of this mod (you make the code, your code can be private or public, whatever you want, but if you contribute code, that code will be under this license in the context of this mod, but for other mod context, because it is a public contribution, is free-use or whatever your terms are for it, since you contributed the piece of code, for a seperate use outside of this mod). 
+Basically, if you contribute, you can make two versions of the code. One for use exclusively in this mod (which falls under the ARR-UOES license stated here), and one version for public use, which can have it's own set of rules and DOESN'T apply nor can apply here (legally or otherwise), but you still need to link back to the original snippet of code and other assets and this license somewhere, to prevent mis-use of the two versions of code/assets. Only those who made the works are allowed to specify the rules for them in the context of this license. Best practice is to state what people can use the snippets of code/assets for specifically, in all media contexts and communications.
 
-^ Note that the context for names is if the intention is to copy on purpose to gain profit (nefarious intentions) and not do something different. ^
+^ Note that the context for names (of classes and other java types) is if the intention is to copy on purpose to gain profit (nefarious intentions) and not do something different. ^
 
 
 
@@ -25,7 +26,7 @@ You may not repost this mod on any website. If you do, your website will be cons
 
 You may view image and other non-java files, but not use them (unless you have written permission to do so).
 
-If you are a 3rd party that is distrbuting this mod in a format other than just a reference, you must have prior written permission to do so.
+If you are a 3rd party that is distrbuting this mod in a format other than just a reference (a fully complete file or significant portion (greater than 50.22%) of the original data), you must have prior written permission to do so.
 Also, if your content contains this mod and makes money or some sort of gain off said content that contains this mod in it, you aren't required to post a public list of permissions, since that is a freely given right in the US and some other countries. Fair use is the following types of content:
 + Video Showcases Of The Mod
 + Video Tutorials Of The Mod
@@ -34,6 +35,8 @@ Also, if your content contains this mod and makes money or some sort of gain off
 + Articles about the mod (negative or positive)
 + Playthroughs of MC Modded gameplay that contain images or show the mod's content in gameplay
 + Challenges that use the mod (in gameplay context) to win money or other awards (note that the MC M.U.G. and E.U.L.A. might/do override this [in some form; this is outside the scope of this license])
+
+In terms of the MC EULA and MUG, this license tries to conform to the rules stated in them.
 
 Since word of mouth and other simple forms of communcation are allowed (almost everywhere) this license will allow as much as the US law states in those aspects (if you are outside of the scope, nothing can be done in that respect). If this is a grey/gray area for 3rd parties reading this, remember to just ask for the details and specifics or just a run-down of what all this means.
 
@@ -52,3 +55,5 @@ Think of it as taking a candy bar that you were told not to touch unless a staff
 Basically, if your in a grey/gray area about the usage of "Thingamajigs" or "thingamajigs", just ask. There are a billion real businesses with the term "Thingamajigs" as their real working/company title.
 
 Any content that already used/showcased this mod in the past before August 24, 2024, won't need to completely comply with the rule of posting a list of permissions which you were given that were privately obtained permissions. Anything after August 24, 2024, will have to comply with posting the list of private permissions they have obtained from CMB somewhere publically in order to comply with the ARR-UOES license. The owner of the mod does not need to post the list, only 3rd parties do, as ARR-UOES states.
+
+This license was updated November 23rd, 2024.
