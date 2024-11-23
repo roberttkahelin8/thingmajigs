@@ -1,10 +1,6 @@
 A list of new features that are WIP and will be released in a future update (usually the next after the current public release, excluding public betas and alphas):
 (These Features are usually made with 'parity' in mind so the experience is mostly the same):
 
-1.7.4 Update (some features were requested):
-* Redo Asphalt Block Features
-* More Asphalt slabs that are painted
-
 Future update:
 ?
 
@@ -29,7 +25,4 @@ Dev and Other Features (may be exactly the same in more than one mc modding envi
 * future plans later
 
 A list of future versions of this mod (meaning different mod loaders or mc versions):
-* 1.7.4 (1.20.1)
-
-1.7.4 Neo Feature Update (1.21+):
-* More bug fixes/changes
+?
