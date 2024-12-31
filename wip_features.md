@@ -2,7 +2,7 @@ A list of new features that are WIP and will be released in a future update (usu
 (These Features are usually made with 'parity' in mind so the experience is mostly the same):
 
 Future update:
-* New road markings for white, yellow and blue types.
+* New road markings for white, yellow and blue types (complete).
 * Backport railroad crossing feature from neo railroadways mod.
 * air fryer
 * water dispenser
