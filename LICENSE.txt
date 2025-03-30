@@ -42,9 +42,10 @@ Since word of mouth and other simple forms of communcation are allowed (almost e
 
 You may reference modded blocks and items in other mods (e.g. your model files or code references the mod id 'thingamajigs' and contains the word 'thingamajigs')
 You may not use the name 'thingamajigs' for anything BUT references in model files or code. If your mod id is 'thingamajigs' or 'thingamajigsplus' or anything like that, you are copying this name too closely and must (its recommended to) change it.
-This is the same as copying name-brands and adding one word or some numbers to it (like calling a linux distro "Windows 12").
+This is the same as copying name-brands or company's title and adding one word or some numbers to it.
 Another example of outright copying is taking the MC name and adding some number or word to it (e.g. MinecraftMods or Minecraft4 or something).
 An acceptable example of a mod name/id that doesn't break the rules is "Techno & Thingamajigs" or "Cool Stuff & Thingamajigs" because the term "Thingamajigs" is not the main focus of the title/id of the mod.
+There are many laws that can explain what copying a name really means. Go read up on them if you do not understand this.
 
 This mod tries to comply with the Minecraft EULA (https://www.minecraft.net/en-us/eula) and MUG (https://www.minecraft.net/en-us/usage-guidelines).
 
@@ -56,4 +57,4 @@ Basically, if your in a grey/gray area about the usage of "Thingamajigs" or "thi
 
 Any content that already used/showcased this mod in the past before August 24, 2024, won't need to completely comply with the rule of posting a list of permissions which you were given that were privately obtained permissions. Anything after August 24, 2024, will have to comply with posting the list of private permissions they have obtained from CMB somewhere publically in order to comply with the ARR-UOES license. The owner of the mod does not need to post the list, only 3rd parties do, as ARR-UOES states.
 
-This license was updated November 23rd, 2024.
+This license was updated March 30th, 2025.
