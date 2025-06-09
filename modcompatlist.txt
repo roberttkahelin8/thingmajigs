@@ -8,3 +8,9 @@ Optional Supported Mods:
 Athena
 Patchouli (1.7.3+)
 Apotheosis (1.7.4+)
+
+
+Tag Support:
+Create
+Alex's Caves
+Tough As Nails
