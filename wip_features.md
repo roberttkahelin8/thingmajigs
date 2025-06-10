@@ -2,20 +2,9 @@ A list of new features that are WIP and will be released in a future update (usu
 (These Features are usually made with 'parity' in mind so the experience is mostly the same):
 
 Future update:
-* New road markings for white, yellow and blue types (complete).
-* Backport railroad crossing feature from neo railroadways mod.
-* air fryer
-* water dispenser
-* cat tree
-* trash bag
-* gaming pc
-* litter box
-* desk lamp
-* refined thingamajig block
-* camping fuel can
-* icecream display
-* PTAC AC unit
-* clothes rack
+Teddy Bear
+Musical Instruments
+Upgrades to older features
 
 "Perhaps I will add these features, maybe later, maybe now, idk" features:
 * Writable gravestones (seems to be a bit tricky to implement based on the signs in mc, a prototype proved to partially work)
