@@ -5,6 +5,7 @@
     "1.7.0": "A minor update with some little things.",
     "1.7.5":"Added Notable game consoles,Dental Cup,Wall TV,Barber Shop Features,Cash Register hitbox and model updated;Behind the scenes changes that help the mod work better in the long run",
     "1.7.6":"Backports and many new features Coming soon!"
+    "1.7.7_pre1":"A prerelease containing many new features and changes!"
   },
   "promos":{
     "1.17.1-latest":"1.2.9",
@@ -16,8 +17,9 @@
     "1.19.3-latest":"1.5.3",
     "1.19.4-latest":"1.6.1",
     "1.20-latest":"1.6.2",
-    "1.20.1-latest":"1.7.5",
+    "1.20.1-latest":"1.7.7",
+    "1.20.1-recommended":"1.7.6",
     "1.20.4-latest": "1.7.0",
-    "1.21.0-latest":"1.7.5"
+    "1.21.0-latest":"1.7.6"
   }
 }
