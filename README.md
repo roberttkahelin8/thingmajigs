@@ -11,7 +11,9 @@ Supported Mod Loaders For Issue and Crash Support: Forge (1.20.1 Version).
 Unsupported Versions For Issue and Crash Support: MC 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
 Unsupported Mod Loaders For Issue and Crash Support: 1.20.2-1.21+.
 
-Future Planned Versions: 1.7.6
+Future Planned Versions: 1.7.7
+
+Test trial old and pre-release versions of Thingamajigs here (newest is 1.7.7): https://github.com/roberttkahelin8/thingmajigs/tree/main/downloads
 
 ## Documentation
 https://bonincreativemedia.gitbook.io/thingamajigs-docs/
