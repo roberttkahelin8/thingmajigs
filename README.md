@@ -64,6 +64,8 @@ Also, don't mock anyone with suggestions for this mod (we will remove you, perma
 Also, if you are the owner of something referenced in this mod, I can just take out that feature from the mod you don't like, but that is it. Personal preferences are NOT valid reasons for a DCMA takedown or other legal action, sorry, that is how it works. Evidence and proof are easy to give if you are a company who wishes something to be removed from the mod, but if you don't like the mod because of something else, like a personal preference, I am sorry, I only take legal requests and suggestions that add content that everyone will enjoy, or rather, is safe for ALL people, not just individuals.
 Some problematic features could be gambling machines, or the poop, for example. Remember, this mod is only decorative, and does not endorse the real life stuff portrayed in this mod. You take responsibility for your own actions when downloading mods and content from 3rd parties. We can reject arguments on the grounds that the mod is a choice to download, not forced or required for you to use. You can delete this mod and never use it again if you don't like it, it is perfectly fine. But do not report a mod out of existence for one feature you don't like. These are the simple legal rules and such this mod is grounded upon (and some other things I don't need to go into detail here).
 
+And ABSOLUTELY NO ILLEGAL CONTENT WHATSOEVER! NEVER suggest content that is absolutely illegal. We'll report you BIG time if you suggest such things.
+
 
 # Technical Information About Repository Files
 
