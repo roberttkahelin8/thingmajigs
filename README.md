@@ -13,7 +13,7 @@ Unsupported Mod Loaders For Issue and Crash Support: 1.20.2-1.21+.
 
 Future Planned Versions: 1.7.7
 
-Test trial old and pre-release versions of Thingamajigs here (newest is 1.7.7): https://github.com/roberttkahelin8/thingmajigs/tree/main/downloads
+Test trial old and pre-release versions of Thingamajigs here (newest is 1.7.7): https://github.com/CreativeMasterBonin/thingmajigs/tree/main/downloads
 
 ## Documentation
 https://bonincreativemedia.gitbook.io/thingamajigs-docs/
