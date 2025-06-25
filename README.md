@@ -96,7 +96,5 @@ Note that these versions have been removed from the online world entirely, and n
 As of August 27th, 2024, the artist involved in the creation of the pumpkin textures has allowed multiple mods to use them, so they are not Thingamajigs-exclusive textures anymore. Exclusive permission was given to another modder, along with Thingamajigs' mod creator.
 
 
-Hey... reader? Are you there? If you are still... why not test out a new mod coming soon to MC 1.21.1 NeoForge? https://www.mediafire.com/file/oqoegtx6gdqf9x9/cmatd-neo-1.21.1-1.0.0_alpha.jar/file
-
 Disclaimer about product:
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
